@@ -7,6 +7,7 @@ local.properties
 
 # Log/OS Files
 *.log
+.DS_Store
 
 # Android Studio generated files and folders
 captures/
@@ -18,9 +19,13 @@ output.json
 # IntelliJ
 *.iml
 .idea/
+.kotlin
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
+
+# VS Code
+.vscode
 
 # Keystore files
 *.jks

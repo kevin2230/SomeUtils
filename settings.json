@@ -1,0 +1,8 @@
+{
+    // "java.configuration.updateBuildConfiguration": "automatic",
+    // "java.compile.nullAnalysis.mode": "automatic",
+    // "java.jdt.ls.java.home": "<你的JDK路径>",
+    // "kotlin.languageServer.enabled": true,
+    // "kotlin.debugAdapter.enabled": true,
+    // "android.sdk.path": "<你的Android SDK路径>"
+}
